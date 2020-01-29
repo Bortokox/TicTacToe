@@ -1,0 +1,8 @@
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MainForm.resources
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\borto\Documents\SharpDevelop Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
